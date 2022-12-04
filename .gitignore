@@ -36,3 +36,5 @@
 
 # Debug folder
 /Debug
+/x64/Debug/
+/Wireframe-Project/x64/Debug/
